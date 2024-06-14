@@ -8,6 +8,7 @@ Answer the following questions based on your understanding of the installation a
  Questions:
 
 **1. Installation of VS Code:**
+
    - Describe the steps to download and install Visual Studio Code on Windows 11 operating system. Include any prerequisites that might be needed.
 Prerequisites:
 
@@ -42,6 +43,7 @@ l. Launch Visual Studio Code: After installation, you can find Visual Studio Cod
 m. Configuration: Upon first launch, you may be prompted to select your preferences and install any recommended extensions. Follow the on-screen instructions to configure Visual Studio Code according to your preferences.
 
 **2. First-time Setup:**
+
    - After installing VS Code, what initial configurations and settings should be adjusted for an optimal coding environment? Mention any important settings or extensions.
      1. Configure Settings:
 Font: Set a comfortable font size and type for coding.
@@ -85,6 +87,7 @@ Depending on your development needs, install extensions tailored for specific la
 Keep VS Code and installed extensions up to date to benefit from the latest features and bug fixes.
 
 **3. User Interface Overview:**
+
    - Explain the main components of the VS Code user interface. Identify and describe the purpose of the Activity Bar, Side Bar, Editor Group, and Status Bar.
 Activity Bar: The Activity Bar is located on the far left side of the VS Code window. It contains several icons representing different activities or views, such as Explorer, Search, Source Control, Run and Debug, and Extensions. Each icon corresponds to a specific functionality or feature set within VS Code. The purpose of the Activity Bar is to provide quick access to these different views, allowing users to navigate between them easily.
 
@@ -95,6 +98,7 @@ Editor Group: The Editor Group refers to the main editing area where users work 
 Status Bar: The Status Bar is located at the bottom of the VS Code window. It provides information and quick access to various features and settings. The Status Bar typically includes items such as the language mode, line and column numbers, indentation settings, Git branch information, and notifications about errors or warnings in the code. It also contains several interactive elements, such as the selection indicator and the encoding and line ending indicators, which allow users to change settings directly from the Status Bar.
 
 **4. Command Palette:**
+
    - What is the Command Palette in VS Code, and how can it be accessed? Provide examples of common tasks that can be performed using the Command Palette.
      The Command Palette in Visual Studio Code (VS Code) is a powerful tool that allows users to access various commands, settings, and features quickly through a search-based interface.
      Accessed: Windows/Linux: Ctrl + Shift + P, macOS: Cmd + Shift + P
@@ -123,6 +127,7 @@ g. Opening Integrated Terminal: You can open an integrated terminal directly wit
 Example: Type "Toggle Integrated Terminal" and select the option to show or hide the terminal.
 
 **5. Extensions in VS Code:**
+
    - Discuss the role of extensions in VS Code. How can users find, install, and manage extensions? Provide examples of essential extensions for web development.
 Extensions in Visual Studio Code (VS Code) play a crucial role in enhancing its functionality and customizing the development environment according to the user's needs. They extend the core features of VS Code by adding new languages, themes, debuggers, and tools, among other functionalities.
 
@@ -153,7 +158,8 @@ Auto Rename Tag: This extension automatically renames paired HTML/XML tags, savi
 
 Path Intellisense: It provides autocomplete suggestions for file paths, making it easier to navigate and reference files within a project.
 
-6. Integrated Terminal:
+**6. Integrated Terminal:**
+
    - Describe how to open and use the integrated terminal in VS Code. What are the advantages of using the integrated terminal compared to an external terminal?
 Opening and using the integrated terminal in Visual Studio Code (VS Code) is straightforward:
 
@@ -183,7 +189,9 @@ Customization: VS Code's integrated terminal offers extensive customization opti
 Accessibility: Having the terminal integrated within the same interface as your code editor makes it more accessible and easier to use, especially for beginners who may find managing multiple applications challenging.
 
 Extensions Compatibility: Many VS Code extensions provide features that enhance the integrated terminal further, such as integrating with version control systems, language-specific tools, and more.
+
 **7. File and Folder Management:**
+
    - Explain how to create, open, and manage files and folders in VS Code. How can users navigate between different files and directories efficiently?
 Creating Files:
 
@@ -225,7 +233,9 @@ Press Ctrl+P (Cmd+P on Mac), then type > followed by the name of the file you wa
 Tabs:
 
 VS Code uses tabs to display open files. You can click on a tab to switch between files quickly.
+
 **8. Settings and Preferences:**
+
    - Where can users find and customize settings in VS Code? Provide examples of how to change the theme, font size, and keybindings.
 users can find and customize settings through the Settings view. Here's how to access it:
 
@@ -242,7 +252,9 @@ Adjusting Font Size: To change the font size, search for "Font Size" in the sett
 
 Customizing Keybindings: To customize keybindings, search for "Keybindings" in the settings search bar. You can either directly modify the default keybindings or create custom keybindings by clicking on the keybindings.json link at the top right corner of the settings page. 
 Saving Settings: Remember to save your changes by clicking the "Save" button in the top-right corner of the Settings view or by using the Ctrl + S shortcut.
+
 **9. Debugging in VS Code:**
+
    - Outline the steps to set up and start debugging a simple program in VS Code. What are some key debugging features available in VS Code?
 a. Install Visual Studio Code
 b. Install Necessary Extensions
@@ -258,7 +270,9 @@ g. Debugging Features: VS Code offers a range of debugging features to help you 
 - Console: You can interact with your program through the integrated debug console, allowing you to execute commands and evaluate expressions.
 - Breakpoints: Besides regular breakpoints, VS Code supports conditional breakpoints and function breakpoints, which pause the execution when a specific condition is met or when a specific function is called.
 - Debugging Toolbar: The debugging toolbar provides shortcuts for common debugging actions, such as stepping in, stepping over, and restarting the debugger.
+- 
 **10. Using Source Control:**
+  
     - How can users integrate Git with VS Code for version control? Describe the process of initializing a repository, making commits, and pushing changes to GitHub.
 Install Git: First, ensure that Git is installed on your system. You can download and install Git from the official website: Git Downloads.
 
